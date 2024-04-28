@@ -1,4 +1,4 @@
-![Header](./github-header-image (1))
+
 
 <h1 align="center">Hi 👋, I'm Salsaa...</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
